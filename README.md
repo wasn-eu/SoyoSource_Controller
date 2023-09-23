@@ -10,8 +10,8 @@ in din rail case. needs another adapter cable in the inverter. this adapter cabl
     
 ## interal Controller
 just take the RS485 board out and plug this in.    
-Connect the display port to the board and add the external antenna.
-![internal](../../raw/master/images/soyosource_intern.jpg)   
+Connect the display port to the board and add the external antenna.     
+![internal](../../raw/master/images/soyosource_intern.png)   
    
 
 You can find the gerber files in the directory external or internal.
