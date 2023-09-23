@@ -1,5 +1,5 @@
 # SoyoSource_Controller
-## (c) by [<img src="https://github.com/wasn-eu/CubeCell_Getting_Started/raw/master/images/wasn_logo.png" width=70>](https://www.wasn.eu)
+## (c) by [<img src="https://www.pvtex.de/user/themes/darkquark/images/logo/logo_trans.png" width=70>](https://www.wasn.eu)
 
 This Controller let you controll all settings of your SoyoSource inverter and can control it for zero grid injection.   
 The Software is based on ESP-home and the great work of [syssi](https://github.com/syssi).    
