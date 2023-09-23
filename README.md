@@ -5,10 +5,13 @@ This Controller let you controll all settings of your SoyoSource inverter and ca
     
 ## external Controller 
 in din rail case. needs another adapter cable in the inverter. this adapter cable adds an external connector for the display port.   
+![external](../../raw/master/images/soyosource_extern.jpg)      
+
     
 ## interal Controller
 just take the RS485 board out and plug this in.    
 Connect the display port to the board and add the external antenna.
+![internal](../../raw/master/images/soyosource_intern.jpg)   
    
 
 You can find the gerber files in the directory external or internal.
