@@ -1,4 +1,5 @@
 # SoyoSource_Controller
+## (c) by [<img src="https://github.com/wasn-eu/CubeCell_Getting_Started/raw/master/images/wasn_logo.png" width=70>](https://www.wasn.eu)
 
 This Controller let you controll all settings of your SoyoSource inverter and can control it for zero grid injection.   
     
