@@ -2,6 +2,23 @@
 ## (c) by [<img src="https://github.com/wasn-eu/CubeCell_Getting_Started/raw/master/images/wasn_logo.png" width=70>](https://www.wasn.eu)
 
 This Controller let you controll all settings of your SoyoSource inverter and can control it for zero grid injection.   
+The Software is based on ESP-home and the great work of [syssi](https://github.com/syssi).    
+You can find the sources at [github](https://github.com/syssi/esphome-soyosource-gtn-virtual-meter).   
+It is based on this [template[(https://github.com/syssi/esphome-soyosource-gtn-virtual-meter/blob/main/esp8266-display-display-version-limiter-example.yaml).   
+
+All you have to do is to change the PIN definition:
+'''
+tx_pin_ttl_wifi: GPIO12
+rx_pin_ttl_wifi: GPIO13
+tx_pin_rs485: GPIO16
+rx_pin_rs485: GPIO5
+'''
+
+And add these lines to activate the status LED:
+'''
+status_led:
+  pin: GPIO2
+'''
     
 ## external Controller 
 in din rail case. needs another adapter cable in the inverter. this adapter cable adds an external connector for the display port.   
